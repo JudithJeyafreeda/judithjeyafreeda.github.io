@@ -10,12 +10,12 @@
 
 ## About Me
 
-I am an AI researcher specializing in **artificial intelligence for clinical textual data**, with expertise in:
+I am an AI researcher specializing in **artificial intelligence for Health data**, with expertise in:
 
 - Clinical Natural Language Processing  
-- Temporal Information Extraction  
+- Temporal Information Extraction
+- Information Extraction
 - Low-Resource Learning  
-- Explainable AI  
 - Bias & Fairness in NLP  
 
 My work spans France, the UK, and international collaborations with hospitals and research labs. I have published in **ACM TOIS**, **JAMIA Open**, **Frontiers in Digital Health**, and top NLP venues such as **LREC-COLING**, **SemEval**, and **Clinical NLP Workshop**.
