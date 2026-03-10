@@ -1,12 +1,8 @@
----
-layout: default
-title: "Judith Jeyafreeda Andrew"
----
 
 # Judith Jeyafreeda Andrew
-**Independent AI Scientist | Clinical NLP | Temporal Reasoning | Trustworthy Medical AI**
+**Independent AI Scientist | Clinical NLP | Temporal Reasoning | Medical AI**
 
-📍 Paris, France  
+📍 France  
 📧 judithjeyafreeda@gmail.com  
 🔗 [Google Scholar](#) · [GitHub](https://github.com/judithjeyafreeda) · [ORCID](#)
 
