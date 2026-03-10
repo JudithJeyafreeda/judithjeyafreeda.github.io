@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am an AI researcher specializing in **trustworthy artificial intelligence for clinical and multimodal data**, with expertise in:
+I am an AI researcher specializing in **artificial intelligence for clinical textual data**, with expertise in:
 
 - Clinical Natural Language Processing  
 - Temporal Information Extraction  
@@ -37,7 +37,7 @@ I am passionate about building **verifiable, auditable, and clinically meaningfu
 
 ## Quick Links
 
-- 👉 [Full CV](CV.md)  
+- 👉 [Full CV](CV.md)
 - 👉 [Publications](publications.md)  
-
+- 👉 [Teaching](teaching.md)
 ---
