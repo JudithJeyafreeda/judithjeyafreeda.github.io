@@ -1,6 +1,6 @@
 
 # Judith Jeyafreeda Andrew
-**AI Scientist | Clinical NLP | Temporal Reasoning | Medical AI**
+**AI in Health Care | Clinical NLP | Temporal Reasoning**
 
 📍 France  
 📧 judithjeyafreeda@gmail.com  
