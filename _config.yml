@@ -11,7 +11,6 @@ highlighter: rouge
 
 author:
   name: "Judith Jeyafreeda Andrew"
-  avatar: "/assets/images/profile.jpg"
   bio: "Independent AI Scientist specializing in clinical NLP, temporal reasoning, multimodal learning, and trustworthy medical AI."
   location: "Paris, France"
   email: "judithjeyafreeda@gmail.com"
