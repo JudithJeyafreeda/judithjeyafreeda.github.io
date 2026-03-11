@@ -4,11 +4,6 @@ permalink: /cv/
 
 **Judith Jeyafreeda Andrew**
 
-📧 judithjeyafreeda@gmail.com  
-📱 +33 6 99 34 23 39  
-
----
-
 # Research Profile
 
 Experienced researcher specializing in trustworthy AI for textual and multimodal data, with expertise in:
