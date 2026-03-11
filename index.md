@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Judith Jeyafreeda Andrew"
+author_profile: true
+---
+
+Welcome to my academic webpage.
 
 # Judith Jeyafreeda Andrew
 **AI in Health Care | Clinical NLP | Temporal Reasoning**
