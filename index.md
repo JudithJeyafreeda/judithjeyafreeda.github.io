@@ -4,7 +4,7 @@
 
 📍 France  
 📧 judithjeyafreeda@gmail.com  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=Zu7wIAcAAAAJ&hl=en) · [GitHub](https://github.com/judithjeyafreeda) · [ORCID](https://orcid.org/0000-0002-2305-1439)
+
 
 ---
 
