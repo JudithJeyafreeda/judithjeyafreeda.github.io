@@ -5,3 +5,6 @@ author:
   name: "Judith Jeyafreeda Andrew"
   email: "judithjeyafreeda@gmail.com"
 description: "Clinical NLP • Temporal Reasoning • Trustworthy Medical AI"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
