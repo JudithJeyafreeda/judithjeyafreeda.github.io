@@ -1,10 +1,9 @@
 ---
-title: "Teaching"
+
 permalink: /teaching/
 ---
 
 # Teaching Portfolio  
-**Judith Jeyafreeda Andrew**
 
 My teaching experience spans undergraduate and graduate levels across France and the United Kingdom. I have taught programming, web technologies, and supervised research projects, with a strong emphasis on accessibility, hands-on learning, and research integration.
 
