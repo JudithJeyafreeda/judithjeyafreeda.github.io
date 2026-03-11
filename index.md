@@ -3,16 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# Judith Jeyafreeda Andrew
-**AI in Health Care | Clinical NLP | Temporal Reasoning**
-
-📍 France  
-📧 judithjeyafreeda@gmail.com  
-
-🔗 [Google Scholar](https://scholar.google.com/citations?user=Zu7wIAcAAAAJ&hl=en) · [GitHub](https://github.com/judithjeyafreeda) · [ORCID](https://orcid.org/0000-0002-2305-1439)
-
----
-
 ## About Me
 
 I am an AI researcher specializing in **artificial intelligence for Health data**, with expertise in:
@@ -39,3 +29,4 @@ I am passionate about building **verifiable, auditable, and clinically meaningfu
 - 🌍 International collaborations in France, UK, Italy  
 
 ---
+🔗 [Google Scholar](https://scholar.google.com/citations?user=Zu7wIAcAAAAJ&hl=en) · [GitHub](https://github.com/judithjeyafreeda) · [ORCID](https://orcid.org/0000-0002-2305-1439)
