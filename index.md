@@ -3,8 +3,6 @@ layout: single
 author_profile: true
 ---
 
-## About Me
-
 I am an AI researcher specializing in **artificial intelligence for Health data**, with expertise in:
 
 - Clinical Natural Language Processing  
