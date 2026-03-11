@@ -1,3 +1,7 @@
+---
+title: "Publications"
+permalink: /publications/
+---
 
 # Journal Articles
 - *Using Large Language Models for Temporal Relation Extraction from Pediatric Clinical Reports.* JAMIA Open. https://doi.org/10.1093/jamiaopen/ooaf121
