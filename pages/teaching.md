@@ -1,3 +1,7 @@
+---
+title: "Teaching"
+permalink: /teaching/
+---
 
 # Teaching Portfolio  
 **Judith Jeyafreeda Andrew**
