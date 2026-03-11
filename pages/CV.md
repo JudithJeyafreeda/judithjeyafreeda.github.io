@@ -1,9 +1,7 @@
 ---
-title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae  
 **Judith Jeyafreeda Andrew**
 
 📧 judithjeyafreeda@gmail.com  
