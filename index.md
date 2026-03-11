@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Judith Jeyafreeda Andrew"
 author_profile: true
 ---
 
