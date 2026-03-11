@@ -34,10 +34,3 @@ I am passionate about building **verifiable, auditable, and clinically meaningfu
 - 🌍 International collaborations in France, UK, Italy  
 
 ---
-
-## Quick Links
-
-- 👉 [Full CV](CV.md)
-- 👉 [Publications](publications.md)  
-- 👉 [Teaching](teaching.md)
----
